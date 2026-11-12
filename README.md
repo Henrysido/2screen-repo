@@ -1,6 +1,6 @@
 # 2Screen Repo
 
-APT repository for **2Screen** (`com.mia.2screen`) — a CarPlay two-screen tweak for VinFast VF3.
+APT repository for **2Screen** (`com.sido.2screen`) — a CarPlay two-screen tweak for VinFast VF3.
 
 Add to Sileo (once):
 
