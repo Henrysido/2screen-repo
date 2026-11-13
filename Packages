@@ -142,3 +142,19 @@ Description: Bo khung CarPlay va stretch slider tweak tu viet
 Author: Sido
 Name: 2Screen
 
+Package: com.sido.2screen
+Version: 0.0.1-32
+Architecture: iphoneos-arm64e
+Maintainer: Sido
+Installed-Size: 3332
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.sido.2screen_0.0.1-32_iphoneos-arm64e.deb
+Size: 2007962
+MD5sum: f06b65787521a229299c58d38b9c4731
+SHA1: 92bf999f8380c334fd71ea5351d8ab96e9d064bb
+SHA256: 6c60963f255e7c1995db933d3b87a6eed635f3fda2a72a513873ae71a188a815
+Section: Tweaks
+Description: Bo khung CarPlay va stretch slider tweak tu viet
+Author: Sido
+Name: 2Screen
+
